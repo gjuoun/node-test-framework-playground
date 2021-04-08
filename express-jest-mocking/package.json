@@ -1,0 +1,17 @@
+{
+  "name": "express-jest-mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "client-sessions": "^0.8.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.3"
+  }
+}
